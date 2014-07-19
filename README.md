@@ -2,10 +2,13 @@ QtCMakePrototype
 ================
 
 a starting point for simple Qt projects with CMake.
-including:
+
 <ul>
-<li>CMakeLists.txt</li>
-<li>cpp, h, ui File as generated when creating a project with QtCreator</li>
+  <li>including:</li>
+    <ul>
+      <li>CMakeLists.txt</li>
+      <li>cpp, h, ui File as generated when creating a project with QtCreator</li>
+    </ul>
 </ul>
 
 The CMakeLists.txt file follows the Qt CMake Manual at http://qt-project.org/doc/qt-5/cmake-manual.html#using-qt-5-with-cmake-older-than-2-8-9 
